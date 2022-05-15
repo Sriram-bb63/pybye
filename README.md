@@ -10,7 +10,7 @@ Copy and paste the following code in your terminal:
 
 ``cd /usr/local/bin``
 
-``sudo wget https://raw.githubusercontent.com/sriteja-t/byeBye/main/byebye``
+``sudo wget https://raw.githubusercontent.com/Sriram-bb63/pybye/main/pybye.py``
 
 ``sudo chmod +x byebye``
 
