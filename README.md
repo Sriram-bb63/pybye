@@ -12,7 +12,7 @@ Copy and paste the following code in your terminal:
 
 ``sudo wget https://raw.githubusercontent.com/Sriram-bb63/pybye/main/pybye.py``
 
-``sudo chmod +x byebye``
+``sudo chmod +x pybye.py``
 
 ## Run
 
