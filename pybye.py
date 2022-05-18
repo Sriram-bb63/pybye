@@ -18,7 +18,7 @@ def write_csv(bootTime, timeElapsed):
 		with open(f"{logPath}/log.csv", "a") as f:
 			f.write("bootDate,timeElapsed")
 	bootDate = bootTime[:10]
-	with open(f"{logPath}/log.csv", "a") as f:
+	with open(f"{logPath}/log.csv", "r") as f:
 		logs = f.readlines()
 	lastLog = logs[-1].split(",")
 	if lastLog[0] == bootDate:
